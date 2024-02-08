@@ -17,6 +17,7 @@
   "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
+  "build":"npm i",
   "scripts": {
     "start": "node index.js",
     "server": "nodemon index.js"
