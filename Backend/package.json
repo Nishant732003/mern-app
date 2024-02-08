@@ -20,7 +20,8 @@
   "build":"npm i",
   "scripts": {
     "start": "node index.js",
-    "server": "nodemon index.js"
+    "server": "nodemon index.js",
+    "build":"npm i"
   },
   "author": "",
   "license": "ISC",
